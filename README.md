@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maurice Holda</h1>
-<h3 align="center">Programmer | Developer | Learner | Artist | Content Creator - Hamburg / Germany</h3>
+<h3 align="center">Programmer | Developer | Learner | Artist | Content Creator </h3>
 
 - 🔭 I’m currently working on [Streamii](https://streamii.de)
 
