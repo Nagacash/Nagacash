@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maurice Holda</h1>
-<h3 align="center">Programmer | Developer | Learner | Artist | Content Creator </h3>
+<h3 align="center">Programmer | Wb + AI Developer | Learner | Artist | Content Creator </h3>
 
-- 🔭 I’m currently working on [Streamii](https://streamii.de)
-
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, PYTHON**
-
-- 🤝 I’m looking for help with [blockchain development](https://streamii.de)
+- 🔭 Get in touchn [Portfolio](https://cyber-sec-six.vercel.app/#work)
 
 - 📫 How to reach me **chosenfewrecords@hotmail.de**
 
