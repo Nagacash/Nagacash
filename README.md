@@ -24,7 +24,7 @@
 
 ### Reach me
 
-- 🔗 Portfolio — [mauriceholda.netlify.app](https://mauriceholda.netlify.app/)
+- 🔗 Portfolio — [https://nagacodex.cloud/)
 - 📫 Email — **chosenfewrecords@hotmail.de**
 - 📍 Hamburg, Germany
 
