@@ -24,7 +24,7 @@
 
 ### Reach me
 
-- 🔗 Portfolio — [https://nagacodex.cloud/)
+- 🔗 Portfolio — [https://nagacodex.cloud/) - [https://nagaclub.de/)
 - 📫 Email — **chosenfewrecords@hotmail.de**
 - 📍 Hamburg, Germany
 
